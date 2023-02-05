@@ -4,7 +4,7 @@ Este es un bot basico de Discord que fue creado en aproximadamente el año 2018.
 
 Este bot iba formaba parte de un ecosistema de bots en el servidor de Discord, donde interactuaban un total de 5 bots diferentes para proporcionar una experiencia enriquecedora a los usuarios. Cada bot tenía una función específica y todos se complementaban para crear un ambiente divertido y productivo dentro del servidor.
 
-Sin embargo, debido a la antigüedad del proyecto (v11 en comparación con la versión más reciente de Discord, v14), actualmente el bot no funciona correctamente.Ademas de la falta de documentación y mantenimiento, no es posible actualizarlo o solucionar los problemas que se presentan.
+Sin embargo, debido a la antigüedad del proyecto (v11 en comparación con la versión más reciente de Discord, v14), actualmente el bot no funciona correctamente.Ademas de la falta de documentación y mantenimiento,si bien es posible actualizarlo y solucion a los problemas que se presentan, no hay motivo para realizarlo.
 
 A pesar de esto, este proyecto puede ser útil como punto de partida o ejemplo para alguien que desee crear su propio bot de Discord. Se pueden aprender conceptos básicos sobre cómo funcionan los bots de Discord y cómo interactúan con los canales y servidores de Discord.
 
