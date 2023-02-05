@@ -1,0 +1,66 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Configuration files
+.env
+.env.*.local
+
+# Local environment variables
+.env.local
+.env.*.local
+
+# Test files
+__tests__/
+*.spec.*
+
+# Output of the build process
+dist/
+build/
+
+# Hidden files
+.DS_Store
+.env.*
+.env.*.local
+.env.local
+.idea/
+
+# Documentation files
+docs/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# OS X Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote FTP/SFTP transfer
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
