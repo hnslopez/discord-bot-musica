@@ -1,4 +1,4 @@
-# Bot de Discord
+# Bot de musica
 
 Este es un bot basico de Discord que fue creado en aproximadamente el año 2018. Su función principal era ser utilizado en un canal de Discord para proporcionar música a los usuarios del servidor. Con este bot, los usuarios podían reproducir música, pausar, crear playlists y interactuar con otros bots de música en el mismo servidor.
 
