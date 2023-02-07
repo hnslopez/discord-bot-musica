@@ -1,6 +1,6 @@
 {
-"token":"<TOKEN>",
-"guildId":"<guild id>",
-"textChannel":"",
-"botId":""
+"token":"<DISCORD-TOKEN>",
+"guildId":"<GUILD-ID>",
+"textChannel":"CHANNEL-ID",
+"botId":"BOT-ID"
 }
